@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<phplamp> 
+ 	<message name="12个月一次性还本付息">
+    	<borrow_user name='lvyuanyuan' passwd='123456'>借款账号</borrow_user>
+    	<borrow_used>短期周转</borrow_used>
+    	<borrow_title>做生意周转</borrow_title>
+    	<borrow_des>冬季存货，需要周转</borrow_des>
+    	<borrow_time>6个月</borrow_time>
+    	<repay_way>一次性还本付息</repay_way>
+		<bid_user name='裴强盛' passwd='pei880501'>投标账号</bid_user>
+		<danbao_user name='xfjrtest1' passwd='123456'>担保公司账号</danbao_user>
+	</message>
+    <message name="9个月性还本付息">
+        <borrow_user name='renliyuan' passwd='jinya125424'>借款账号</borrow_user>
+        <borrow_used>个人消费</borrow_used>
+        <borrow_title>上街购物</borrow_title>
+        <borrow_des>周末去商场买衣服</borrow_des>
+        <borrow_time>9个月</borrow_time>
+        <repay_way>一次性还本付息</repay_way>
+        <bid_user name='dujing' passwd='jinya125424'>投标账号</bid_user>
+        <danbao_user name='xfjrtest1' passwd='123456'>担保公司账号</danbao_user>
+    </message>
+</phplamp> 
